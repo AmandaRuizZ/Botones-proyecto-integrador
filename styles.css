@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&display=swap');
+
+
+#carrito {
+    border-color: #48114D;
+    width: 90px;
+    background-color: white;
+    border-radius: 6px;
+    border-width: 2px;
+}
+
+#ingresa {
+    background-color: #6F275D;
+    color: white;
+    width: 90px;
+    text-align: center;
+    font-family: 'Cabin', sans-serif;
+    border-radius: 6px;
+}
+
+#compraYalg {
+    font-family: 'Cabin', sans-serif;
+    background-color: #6F275D;
+    color: white;
+    width: 180px;
+    border-radius: 6px;
+    
+}
+
+#compraYalg2 {
+    font-family: 'Cabin', sans-serif;
+    background-color: white;
+    color: #48114D;
+    width: 180px;
+    border-color:#48114D;
+    border-radius: 6px;
+    border-width: 2px;
+}
+
+#compraYasm{
+    font-family: 'Cabin', sans-serif;
+    background-color: #6F275D;
+    color: white;
+    width: 102px;
+    border-radius: 6px;
+   
+}
+
+#compraYasm2{
+    font-family: 'Cabin', sans-serif;
+    background-color: white;
+    color: #48114D;
+    width: 102px;
+    border-color:#48114D;
+    border-radius: 6px;
+    border-width: 2px;
+
+   
+}
+
+
+
